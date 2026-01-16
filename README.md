@@ -28,7 +28,7 @@ This project is currently **under active development**.
 
 ---
 
-## VPN / Website Blocking (Work in Progress 🚧)
+## VPN / Website Blocking (Work in Progress)
 
 LockInApp is currently being extended with a **VPN-based blocking system** to support:
 
