@@ -99,14 +99,6 @@ A local VPN is the **only correct and supported approach** to achieve system-wid
 **Active development.**
 The project is experimental, technical, and focused on correctness rather than quick hacks.
 
-If you’re reading this and something feels unfinished — it probably is, by design.
-
----
-
-If you want, I can also:
-
-* write a **short Play Store–style description** (safe wording)
-* add a **technical architecture section**
-* or split this into `README.md` + `DEV_NOTES.md` for clarity
+If you’re reading this and something feels unfinished, it probably is, by design (... hopefully)
 
 ![WhatsApp Image 2026-01-14 at 16 38 55](https://github.com/user-attachments/assets/c8eed774-3227-46e3-b10b-1eaff62610b0)
